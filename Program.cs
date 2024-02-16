@@ -9,5 +9,7 @@ Console.WriteLine("multiply call");
 calc.Multi(10.2, 15.26);
 Console.WriteLine("Division call");
 calc.Div(29, 45);
+Console.WriteLine("subtraction call");
+calc.Sub(25, 15);
 
 
