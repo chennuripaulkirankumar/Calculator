@@ -1,0 +1,14 @@
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
