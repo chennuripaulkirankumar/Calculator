@@ -12,3 +12,4 @@ C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExam
 C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\16 02 2024\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
